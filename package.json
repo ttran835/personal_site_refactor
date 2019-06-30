@@ -1,0 +1,26 @@
+{
+  "name": "personal_site_refactor",
+  "version": "1.0.0",
+  "description": "A refactor of personal Site",
+  "main": "index.html",
+  "scripts": {
+    "scss": "node-sass public/scss/main.scss -o public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttran835/personal_site_refactor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttran835/personal_site_refactor/issues"
+  },
+  "homepage": "https://github.com/ttran835/personal_site_refactor#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.18.0",
+    "node-sass": "^4.12.0"
+  }
+}

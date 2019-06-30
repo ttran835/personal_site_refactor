@@ -1,0 +1,14 @@
+@import './custom';
+
+#title-card {
+  background-color: $div-bg-color;
+  h1 {
+    @include Allerta;
+  }
+  p {
+    @include Oswald;
+  }
+  span {
+    @include DancingScript;
+  }
+}

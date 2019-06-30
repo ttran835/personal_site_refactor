@@ -1,0 +1,19 @@
+/* custom font and colors */
+/* Animation */
+/* effects */
+html body {
+  background-color: #faf9f5; }
+  html body p {
+    font-family: 'Oswald', Arial, Helvetica, sans-serif; }
+
+/* custom font and colors */
+/* Animation */
+/* effects */
+#title-card {
+  background-color: #fff; }
+  #title-card h1 {
+    font-family: 'Allerta Stencil', Arial, Helvetica, sans-seriff; }
+  #title-card p {
+    font-family: 'Oswald', Arial, Helvetica, sans-serif; }
+  #title-card span {
+    font-family: 'Dancing Script', cursive, Arial, Helvetica, sans-serif; }

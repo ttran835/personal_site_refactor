@@ -1,0 +1,10 @@
+@import './custom.scss';
+
+html {
+  body {
+    background-color: $body-bg;
+    p {
+      @include Oswald;
+    }
+  }
+}
